@@ -84,9 +84,4 @@ https://www.qinweizhao.com
     </tr>
 </table>
 
-## 特别鸣谢
 
-在此感谢以下项目提供的支持：
-
-- [halo](https://github.com/halo-dev/halo)
-- [halo-theme-joe2.0](https://github.com/qinhua/halo-theme-joe2.0)
